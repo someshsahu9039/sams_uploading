@@ -1,0 +1,84 @@
+/* ************************* head image **************  */
+.headImg{
+  width: 100%;
+  height: 330px;
+  background-image: url(img3.jpg);
+  background-position: center;
+  background-position-y: -227px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.9;
+}
+
+/* ************************* clock **************  */
+.clock{
+
+height: 26px;
+width: 249px;
+/* border: 2px solid black; */
+font-size: 25px;
+margin: 13px;
+
+}
+
+.clockDiv{
+  display: flex;
+  justify-content: flex-end;
+  position: sticky;
+  top: 0px;
+  right: 0px;
+  height: 52px;
+}
+
+/* ************************* dashboard **************  */
+ 
+/* .dashboard{
+  border: 2px solid black;
+}  */
+
+/* ************************* header **************  */
+
+.header{
+  margin-top: -12px;
+  margin-bottom: 15px;
+}
+.header h1{
+  padding: 2px 0px;
+  font-size: 42px;
+  font-family: 'Noto Serif', serif;
+}
+
+.header div{
+  padding: 2px;
+}
+
+/* ************************* my buttons class **************  */
+
+.mybtn{
+  border: 2px solid white;
+  padding: 4px 9px;
+}
+
+.inputDiv{
+  margin: 12px 0px
+}
+.inputDiv label{
+  font-size: 20px;
+}
+
+.entryInput{
+  margin-left: 90px ;
+  padding: 0px 10px;
+  width:290px;
+  height: 30px;
+  border-radius: 12px;
+}
+.entryInput:hover{
+  background-color: rgb(159 153 153);
+  border: 3px solid black;
+  color: white;
+}
+
+.addBtnsDiv{
+  margin-left:153px ;
+}
