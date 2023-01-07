@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sams_uploading/static/css/main.601efe50.css",
+    "main.js": "/sams_uploading/static/js/main.b9a479f9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sams_uploading/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img3.jpg": "/sams_uploading/static/media/img3.7cf2562f7590036e7c8b.jpg",
+    "index.html": "/sams_uploading/index.html",
+    "main.601efe50.css.map": "/sams_uploading/static/css/main.601efe50.css.map",
+    "main.b9a479f9.js.map": "/sams_uploading/static/js/main.b9a479f9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sams_uploading/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.601efe50.css",
+    "static/js/main.b9a479f9.js"
+  ]
+}
